@@ -21,3 +21,6 @@ link: https://developer.android.com/guide/topics/media/mediaplayer#manifest
 stack overflow question about android lifecycle
 link: https://stackoverflow.com/questions/8515936/android-activity-life-cycle-what-are-all-these-methods-for/8516056#8516056
 ==============================================================================
+two articles related to audioFocus
+link1: https://medium.com/google-developers/how-to-properly-handle-audio-interruptions-3a13540d18fa
+link2: https://developer.android.com/guide/topics/media-apps/audio-focus
