@@ -67,3 +67,11 @@ link: https://jsonformatter.curiousconcept.com/
 example from tutorial point for JSON
 link: http://www.tutorialspoint.com/android/android_json_parser.htm
 ==============================================================================
+DecimalFormat  class from documentation
+link: https://developer.android.com/reference/java/text/DecimalFormat?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
+==============================================================================
+SimpleDateFormat class to formate the date and time
+link: https://developer.android.com/reference/java/text/SimpleDateFormat?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
+==============================================================================
+
+
