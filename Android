@@ -79,6 +79,11 @@ link: https://guides.codepath.com/android/Drawables
 documentation for Drawables <shape selector ...
 link: https://developer.android.com/guide/topics/resources/drawable-resource?utm_source=udacity&utm_medium=course&utm_campaign=android_basics#Shape
 ==============================================================================
+Permissions Documentation (normal-dangerous)
+link: https://developer.android.com/guide/topics/permissions/overview?utm_source=udacity&utm_medium=course&utm_campaign=android_basics#normal-dangerous
+==============================================================================
+reference to all permissions
+https://developer.android.com/reference/android/Manifest.permission?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
 -------------------------------------------------------------------------------------------------------------------
 Android Developer Diplome:
 =========================
