@@ -95,4 +95,12 @@ link: https://blog.danlew.net/2014/04/16/android-localization-tips/
 ==============================================================================
 AsyncTask documentation to run long task at background thread
 link: https://developer.android.com/reference/android/os/AsyncTask
+==============================================================================
+How to read / convert an InputStream into a String in Java?(StackOverflow)
+link: https://stackoverflow.com/questions/309424/how-to-read-convert-an-inputstream-into-a-string-in-java
+==============================================================================
+OkHttp (An HTTP & HTTP/2 client for Android and Java applications):
+link: square.github.io/okhttp/
+==============================================================================
+
 -------------------------------------------------------------------------------------------------------------------------------
