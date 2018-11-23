@@ -83,7 +83,11 @@ Permissions Documentation (normal-dangerous)
 link: https://developer.android.com/guide/topics/permissions/overview?utm_source=udacity&utm_medium=course&utm_campaign=android_basics#normal-dangerous
 ==============================================================================
 reference to all permissions
-https://developer.android.com/reference/android/Manifest.permission?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
+link: https://developer.android.com/reference/android/Manifest.permission?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
+==============================================================================
+Http Status Codes:
+link: https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+==============================================================================
 -------------------------------------------------------------------------------------------------------------------
 Android Developer Diplome:
 =========================
