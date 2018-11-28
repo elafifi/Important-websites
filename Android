@@ -88,6 +88,17 @@ link: https://developer.android.com/reference/android/Manifest.permission?utm_so
 Http Status Codes:
 link: https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 ==============================================================================
+article documentation about Processes and threads overview
+link: https://developer.android.com/guide/components/processes-and-threads?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
+==============================================================================
+Keeping your app responsive documentation
+link: https://developer.android.com/training/articles/perf-anr?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
+==============================================================================
+highly recommend this Android Performance Patterns video on threading by Google Developer Advocate Colt McAnlis.
+link: https://www.youtube.com/watch?v=qk5F6Bxqhr4&index=1&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE
+==============================================================================
+What is AsyncTask in Android?
+link: http://programmerguru.com/android-tutorial/what-is-asynctask-in-android/
 -------------------------------------------------------------------------------------------------------------------
 Android Developer Diplome:
 =========================
