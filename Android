@@ -120,6 +120,9 @@ link: https://developer.android.com/guide/components/loaders?utm_source=udacity&
 ==============================================================================
 Threading and Loaders. (Android Performance Patterns Season 5, Ep. 8)
 link: https://www.youtube.com/watch?v=s4eAtMHU5gI&index=8&list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE
+==============================================================================
+Android AsyncTaskLoader Example with ListView and BaseAdapter
+link: https://www.concretepage.com/android/android-asynctaskloader-example-with-listview-and-baseadapter
 -------------------------------------------------------------------------------------------------------------------
 Android Developer Diplome:
 =========================
